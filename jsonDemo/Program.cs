@@ -12,7 +12,6 @@ namespace jsonDemo
 
         static void Main(string[] args)
         {
-
             // url
             string adres = "https://api.genelpara.com/embed/para-birimleri.json";
             
